@@ -12,9 +12,6 @@ Genre: 2D Platformer
 Platform: Windows (PC)
 
 
-**Development Progress and Trailer:** https://youtube.com/playlist?list=PLVqsSuEIMyuuWljfPLaUmOmGKqVgZWm-r&si=7IQH-GleNbA8T6Rh
-
-
 **How to Run:**
 1. Download the game build
 2. Extract the folder
