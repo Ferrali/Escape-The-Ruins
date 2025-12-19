@@ -33,3 +33,13 @@ Muhamad Randy Destawijaya
 
 Game Artist:
 Athaya Rafa
+
+**Screenshots:**
+
+<img width="721" height="406" alt="image" src="https://github.com/user-attachments/assets/6c37362c-df81-477f-b0b1-8239550a447e" />
+<img width="724" height="407" alt="image" src="https://github.com/user-attachments/assets/acf92e3d-3f8e-4832-a65c-310d4dc54aa2" />
+<img width="714" height="402" alt="image" src="https://github.com/user-attachments/assets/732b0ef9-c73a-41f7-a6fc-f5bb97606caf" />
+<img width="714" height="402" alt="image" src="https://github.com/user-attachments/assets/98051937-286d-4cfd-a43c-0a381a154fbf" />
+<img width="725" height="408" alt="image" src="https://github.com/user-attachments/assets/95af7785-053d-410c-afaf-708110a9df46" />
+<img width="725" height="408" alt="image" src="https://github.com/user-attachments/assets/91faeef8-9b6c-4153-95d5-33cc8ae90ebf" />
+<img width="728" height="409" alt="image" src="https://github.com/user-attachments/assets/1682fc4d-2953-472d-8b3c-24d1e5d79ecc" />
