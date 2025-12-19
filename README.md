@@ -4,17 +4,21 @@ A 2D platformer game about and acheologist trapped inside an ancient ruins, sear
 
 Pelarian dari Reruntuhan is a 2D platformer game inspired by Indonesia history and hardcore games like trap adventure. Players control an archeologist exploring ancient ruins, overcoming obstacles, avoiding traps, and collecting Majapahit relics while searching for an escape route.
 
+
 Game Engine: Unity
 Programming Language: C#
 Genre: 2D Platformer
 Platform: Windows (PC)
 
+
 Development Progress and Trailer: https://youtube.com/playlist?list=PLVqsSuEIMyuuWljfPLaUmOmGKqVgZWm-r&si=7IQH-GleNbA8T6Rh
+
 
 How to Run:
 1. Download the game build
 2. Extract the folder
 3. Run the .exe file
+
 
 Developer: 
 Game Designer:
