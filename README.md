@@ -11,6 +11,7 @@ Programming Language: C#
 Genre: 2D Platformer
 Platform: Windows (PC)
 
+**Development Progess and Trailer:** https://youtube.com/playlist?list=PLVqsSuEIMyuuWljfPLaUmOmGKqVgZWm-r&si=TNo9SjSIM9ZaJZ_L
 
 **How to Run:**
 1. Download the game build
