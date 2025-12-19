@@ -1,6 +1,6 @@
 Pelarian dari Reruntuhan
 
-A 2D platformer game about and acheologist trapped inside an ancient ruins, searching for a way out while collecting valuable relics from the majapahit kingdom.
+A 2D platformer game about and acheologist trapped inside an ancient ruins, searching for a way out while collecting valuable relics from the Majapahit kingdom.
 
 Pelarian dari Reruntuhan is a 2D platformer game inspired by Indonesia history and hardcore games like trap adventure. Players control an archeologist exploring ancient ruins, overcoming obstacles, avoiding traps, and collecting Majapahit relics while searching for an escape route.
 
